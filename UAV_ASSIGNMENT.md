@@ -35,6 +35,7 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 |Agriculture| <ul><li>Crop monitoring and analysis</li><li>Precision agriculture and mapping</li><li>Pest and disease detection</li></ul> | Drones used to spray pesticide on a field ![pesticide drone](https://cdn1.npcdn.net/images/15905467800ed69ff98948a13621c8f0e4869397ac.jpg?md5id=6578ea8c336aa704c7e8ea2c5f19353b&new_width=1000&new_height=1000&w=-62170009200) |
 |Law enforcement| <ul><li>Surveillance and monitoring</li><li>Traffic management and control</li><li>Investigating crimes and accidents</li></ul>| Police drones used by the NYPD ![police drones](https://pbs.twimg.com/media/DtliZlXUcAA5bQu?format=jpg&name=small) |
 |Engineering and surveying| <ul><li>Site surveying and inspection</li><li>Progress monitoring and reporting</li><li>Infrastructure maintenance and repair | Drones used in construction ![Construction drone](https://carrollengineering.com/wp-content/uploads/2022/03/AdobeStock_341775267-scaled.jpeg) |
+|Media and entertainment| <ul><li>Hobby use</li><li>Cinematography and videography</li><li>Live events and broadcasting</li></ul> | Drone light show ![drone light show](https://dronedj.com/wp-content/uploads/sites/2/2019/11/Drone-light-shows-in-China-are-showing-what-is-possible.jpg) |
 
 ## UAV Composition
 
