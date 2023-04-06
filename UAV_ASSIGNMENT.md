@@ -32,9 +32,8 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 |---|---|---|
 |Military| <ul><li>search and rescue</li><li>transportation</li><li>electronic warfare and signals intelligence</li><li>battle damage assessment</li><li>surveillance and reconnaissance</li><li>attacking an enemy target</li></ul> | Long range surveilence military drones ![Military drone](https://user-images.githubusercontent.com/46016713/230248686-cbfbc51b-1bff-4964-b167-5352af8e4073.png)|
 |Delivery and logistics| <ul><li>Package and parcel delivery</li><li>Inventory management and tracking</li><li>time sensitive deliviries</li></ul> | Drones used to send time sensitive materials such as blood to hospitals ![drone delivering blood to hospital](https://image.cnbcfm.com/api/v1/image/105212120-GettyImages-656134958.jpg?v=1544705065&w=1600&h=900)|
-|Agriculture| <ul><li>Crop monitoring and analysis</li><li>Precision agriculture and mapping</li><li>Pest and disease detection</li></ul> | Drones used to spray pesticide on a field ![pesticide drone](https://cdn1.npcdn.net/images/15905467800ed69ff98948a13621c8f0e4869397ac.jpg?md5id=6578ea8c336aa704c7e8ea2c5f19353b&new_width=1000&new_height=1000&w=-62170009200)
-  
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
+|Agriculture| <ul><li>Crop monitoring and analysis</li><li>Precision agriculture and mapping</li><li>Pest and disease detection</li></ul> | Drones used to spray pesticide on a field ![pesticide drone](https://cdn1.npcdn.net/images/15905467800ed69ff98948a13621c8f0e4869397ac.jpg?md5id=6578ea8c336aa704c7e8ea2c5f19353b&new_width=1000&new_height=1000&w=-62170009200) |
+|Law enforcement| <ul><li>Surveillance and monitoring</li><li>Traffic management and control</li><li>Investigating crimes and accidents</li></ul>| Police drones used by the NYPD ![police drones](https://pbs.twimg.com/media/DtliZlXUcAA5bQu?format=jpg&name=small) |
 
 ## UAV Composition
 
