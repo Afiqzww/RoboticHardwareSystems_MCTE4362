@@ -38,9 +38,16 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 |Media and entertainment| <ul><li>Hobby use</li><li>Cinematography and videography</li><li>Live events and broadcasting</li></ul> | Drone light show ![drone light show](https://dronedj.com/wp-content/uploads/sites/2/2019/11/Drone-light-shows-in-China-are-showing-what-is-possible.jpg) |
 
 ## UAV Composition
-
+  
 ### Frame
-
+Over the years multiple types UAV's have been developed for multiple various purposes and functions.
+  
+###copters
+  
+|![quadcopter](https://www.mdpi.com/robotics/robotics-07-00065/article_deploy/html/images/robotics-07-00065-g014.png)| ![6 rotor drone](https://www.researchgate.net/publication/337948739/figure/fig1/AS:844877071929344@1578445799169/Multi-rotor-UAV-6.ppm) |
+  
+The most commonly used type of drone by hobbyists and law enforcement alike
+  
 ### Navigation
 
 ### Propulsion
