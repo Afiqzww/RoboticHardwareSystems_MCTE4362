@@ -1,6 +1,6 @@
 # The Unmanned Ariel Vehicle (UAV)
 
-The UAV is an aircraft with autonomous or remote control. UAVs were initially created in the twentieth century to perform military tasks deemed "dull, dirty, or dangerous" for humans. By the twenty-first century, they had evolved into vital tools for the majority of militaries. Control technologies' use expanded to numerous non-military applications as they became more affordable and effective. Aerial photography, precision farming, river monitoring, environmental monitoring, policing and surveillance, infrastructure inspections, product delivery, entertainment, and drone racing are some of these applications.
+The UAV is an aircraft with autonomous or remote control. UAVs were initially created in the twentieth century to perform military tasks. By the twenty-first century, they had evolved into vital tools. As control technologies evolved, its functions has now expanded to numerous non-military applications as they became more affordable and effective. Aerial photography, precision farming, river monitoring, environmental monitoring, policing and surveillance, infrastructure inspections, product delivery, entertainment, and drone racing are some of these applications.
 
 ## Contents
 
@@ -15,7 +15,23 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 
 ## UAV History
 
+1898: Nikola Tesla demonstrates the first remote-controlled unmanned aircraft.
+1917: The British Royal Navy develops the first military drone, called the Aerial Target, for attacking German U-boats during World War I.
+1935: a remotely controlled aircraft used for target practice by the US military.
+1944: The Germans develop the V-1 flying bomb, a remote-controlled airplane used to attack England during World War II.
+1959: The US Navy develops the Kettering Bug, an unmanned aerial missile used for reconnaissance purposes.
+1960s-1970s: The US military begins using drones for reconnaissance purposes during the Vietnam War.
+1980s-1990s: Drones are used for civilian applications such as mapping, surveying, and wildlife conservation.
+2000s: The commercial potential of drones becomes apparent, and companies begin developing drones for various industries.
+2010s: The use of drones explodes, and the technology becomes more advanced and affordable. Drones are now used in industries such as agriculture, construction, search and rescue, and delivery.
+2020s: The use of drones continues to grow, and the technology becomes even more advanced, with the potential for drones to be used for urban air mobility and other innovative applications.
+
 ## UAV Applications
+
+|Column 1|Column 2|Column 3|
+|---|---|---|
+|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
+|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
 
 ## UAV Composition
 
