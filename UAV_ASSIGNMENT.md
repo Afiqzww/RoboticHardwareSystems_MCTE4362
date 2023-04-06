@@ -28,9 +28,15 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 
 ## UAV Applications
 
-|Column 1|Column 2|Column 3|
+|Application|Description|Example|
 |---|---|---|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
+|Military| -transportation                                | Row 1 Column 3|
+           -search and rescue
+           -electronic warfare and signals intelligence
+           -battle damage assessment
+           -surveillance and reconnaissance
+           -attacking an enemy target
+           
 |Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
 
 ## UAV Composition
