@@ -30,7 +30,8 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 
 |Application|Description|Example|
 |---|---|---|
-|Military| <ul><li>search and rescue</li><li>transportation</li><li>electronic warfare and signals intelligence</li><li>battle damage assessment</li><li>surveillance and reconnaissance</li><li>attacking an enemy target</li></ul> | ![Military drone](https://user-images.githubusercontent.com/46016713/230248686-cbfbc51b-1bff-4964-b167-5352af8e4073.png)|
+|Military| <ul><li>search and rescue</li><li>transportation</li><li>electronic warfare and signals intelligence</li><li>battle damage assessment</li><li>surveillance and reconnaissance</li><li>attacking an enemy target</li></ul> | Long range surveilence military drones ![Military drone](https://user-images.githubusercontent.com/46016713/230248686-cbfbc51b-1bff-4964-b167-5352af8e4073.png)|
+|Delivery and logistics| <ul><li>Package and parcel delivery</li><li>Inventory management and tracking</li><li>time sensitive deliviries</li></ul>| ![drone delivering blood to hospital](https://image.cnbcfm.com/api/v1/image/105212120-GettyImages-656134958.jpg?v=1544705065&w=1600&h=900)|
            
            
            
