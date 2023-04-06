@@ -42,9 +42,9 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 ### Frame
 Over the years multiple types UAV's have been developed for multiple various purposes and functions.
   
-###copters
+### Multirotor
   
-|![quadcopter](https://www.mdpi.com/robotics/robotics-07-00065/article_deploy/html/images/robotics-07-00065-g014.png)| ![6 rotor drone](https://www.researchgate.net/publication/337948739/figure/fig1/AS:844877071929344@1578445799169/Multi-rotor-UAV-6.ppm) |
+|![quadcopter](https://www.mdpi.com/robotics/robotics-07-00065/article_deploy/html/images/robotics-07-00065-g014.png)| ![6 rotor drone](https://www.researchgate.net/publication/350688583/figure/fig4/AS:1009881100337156@1617785825779/A-multirotor-UAV-equipped-with-a-liquid-storage-and-spraying-system-Photo-by-Stephen.ppm) |
   
 The most commonly used type of drone by hobbyists and law enforcement alike
   
