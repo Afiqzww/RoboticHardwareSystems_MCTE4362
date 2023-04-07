@@ -95,9 +95,15 @@ There are many forms of data transmission used for many different use cases:
 |Type|Details|Example|
 |---|---|---|
 |Radio Frequency (RF)| Data is wirelessly transmitted using radio waves in RF communication. To send data to the ground control station or other receiving devices, UAVs frequently use this technique.|![RF transmission](https://pub.mdpi-res.com/sensors/sensors-21-01947/article_deploy/html/images/sensors-21-01947-g001-550.jpg?1615972544) |
-|Satellite Communication (SATCOM)| When UAVs fly beyond line of sight (BLOS) or when the ground control station is far away, SATCOM is used. The UAV transmits information to an orbiting satellite, which relays it back to Earth. | ![satcom transmission](https://d3i71xaburhd42.cloudfront.net/92946a6ccd65cc4698f10d614c022d2787274d12/2-Figure1-1.png)|
-  
-  
+|Satellite Communication (SATCOM)| When UAVs fly beyond line of sight (BLOS) or when the ground control station is far away, SATCOM is used. The UAV transmits information to an orbiting satellite, which relays it back to Earth. | ![satcom transmission](https://irp.fas.org/doddir/usaf/conops_uav/fig6-1.gif)|
+|Wi-Fi| To send information to the ground control station or other receiving devices, UAVs can use Wi-Fi. This technique is frequently applied to UAVs that fly close to the ground control station. | ![wifi transmission](http://techplayon.com/wp-content/uploads/2017/12/drone3.png) |
+    
 ### Power Management
 
+- Batteries: Rechargeable lithium polymer (LiPo) batteries power the majority of small to mid-sized UAVs. These batteries have a good energy-to-weight ratio and are lightweight and small.
 
+- Fuel Cells: Larger UAVs use fuel cells as an alternative to batteries. They produce only water as a byproduct while converting hydrogen and oxygen into electrical energy.
+
+- Solar Power: Solar panels can be used to directly power the UAV during flight or to recharge the batteries. This technique is frequently used for UAVs that need to fly for a long time, like those used for surveying or monitoring the environment.
+
+- Hybrid Power: Some UAVs generate power by combining batteries and fuel cells. The hybrid power management system enables the UAV to fly for longer periods of time and produce more power.
