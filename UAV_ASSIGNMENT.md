@@ -42,20 +42,62 @@ The UAV is an aircraft with autonomous or remote control. UAVs were initially cr
 ### Frame
 Over the years multiple types UAV's have been developed for multiple various purposes and functions.
   
+### Singlerotor
+  
+![single rotor drone](https://www.prodrone.com/wpdir/wp-content/uploads/2020/08/PDH-GS120_002-1024x512.jpg)
+  
+Drones with a single rotor are robust and long-lasting. They resemble helicopters in terms of structure and design. A single-rotor aircraft has only one rotor, which is similar to one large spinning wing, and an additional tail rotor for direction and stability control.
+  
 ### Multirotor
+
+ Quadcopter            |  Hexacopter
+:-------------------------:|:-------------------------:
+![quadcopter](https://www.mdpi.com/robotics/robotics-07-00065/article_deploy/html/images/robotics-07-00065-g014.png)  |  ![6 rotor drone](https://www.uavfordrone.com/wp-content/uploads/2020/08/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200821143644-removebg-preview.png)|
   
-|![quadcopter](https://www.mdpi.com/robotics/robotics-07-00065/article_deploy/html/images/robotics-07-00065-g014.png)| ![6 rotor drone](https://www.researchgate.net/publication/350688583/figure/fig4/AS:1009881100337156@1617785825779/A-multirotor-UAV-equipped-with-a-liquid-storage-and-spraying-system-Photo-by-Stephen.ppm) |
+Multirotor UAVs have more than two rotors, each of which spins at a fixed pitch to produce lift. The drone can be made to ascend, hover, or descend by adjusting the rotor speed so that the thrust produced is greater than, equal to, or less than the forces of gravity and drag acting on the aircraft. The drone can also be made to turn or move horizontally by changing the speed of some of its rotors.
   
-The most commonly used type of drone by hobbyists and law enforcement alike
+### Fixed wing
+
+![fixed wing drone](https://uavos.com/wp-content/uploads/2021/06/sit-run-1.jpg) 
+  
+Instead of using vertical lift rotors, a fixed-wing drone has one rigid wing that is created to look and function like an aeroplane. Therefore, this type of drone only requires energy to move forward and not to maintain its airborne position. They are energy-efficient as a result.
+
+### Propulsion
+  
+|Type|Pros|Cons|
+|---|---|---|
+|Electric|Efficient, Low emissions, Rechargable|Noisy, Shorter flight times, Limited payload capacity|
+|Fuel|More power, Longer flight times|More Emissions|
+|Solar|Unlimited flight times, No emissions|Limited payload capacity, Slower|
+|Hybrid|Flexible power consumption, efficient|Expensive, Complex|	
   
 ### Navigation
 
-### Propulsion
+Unmanned aerial vehicle (UAV) navigation is used to direct a UAV to the desired locations along an effective and collision-free path without the assistance of a person. It is essential for autonomous missions in challenging environments.
+  
+![drone navigation system](https://www.foxtech.com/wp-content/uploads/2020/06/QQ%E6%88%AA%E5%9B%BE20200615145920.jpg)
 
 ### Data Collection
 
-### Data Transmission
+The most common types of data collected by a UAV is
 
+- Aerial imagery (RGB)
+- Thermal imagery (IR)
+- LiDAR data
+- Atmospheric data
+- Video
+- location data
+  
+### Data Transmission
+  
+There are many forms of data transmission used for many different use cases:
+  
+|Type|Details|Example|
+|---|---|---|
+|Radio Frequency (RF)| Data is wirelessly transmitted using radio waves in RF communication. To send data to the ground control station or other receiving devices, UAVs frequently use this technique.|![RF transmission](https://pub.mdpi-res.com/sensors/sensors-21-01947/article_deploy/html/images/sensors-21-01947-g001-550.jpg?1615972544) |
+|Satellite Communication (SATCOM)| When UAVs fly beyond line of sight (BLOS) or when the ground control station is far away, SATCOM is used. The UAV transmits information to an orbiting satellite, which relays it back to Earth. | ![satcom transmission](https://d3i71xaburhd42.cloudfront.net/92946a6ccd65cc4698f10d614c022d2787274d12/2-Figure1-1.png)|
+  
+  
 ### Power Management
 
 
