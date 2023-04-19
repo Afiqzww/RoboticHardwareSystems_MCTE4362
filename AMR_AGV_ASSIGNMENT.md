@@ -55,4 +55,5 @@ AMR
 
 | Types | Description	| Example |
 |--|--|--|
-|
+| Carts | Same as AGV but with no need for any sort of guidance | ![AMR](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvalutrack.com%2Fwp-content%2Fuploads%2F2023%2F04%2FZebra-Fetch-Robotics-Portfolio.jpg&f=1&nofb=1&ipt=c6db3c5259e03b8a6b95fd065fee23800062b17f9f2010e82bb3f531c0cb7050&ipo=images) |
+
