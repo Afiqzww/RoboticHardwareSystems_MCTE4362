@@ -7,9 +7,9 @@
 
 ## Contents
 
-- [UAV History](#AGV/AMR-History)
-- [UAV Application](#AGV/AMR-Applications)
-- [UAV Composition](#AGV/AMR-Composition)
+- [AGV/AMR History](#AGV/AMR-History)
+- [AGV/AMR Application](#AGV/AMR-Applications)
+- [AGV/AMR Composition](#AGV/AMR-Composition)
   - [Frame](#Frame)
   - [Navigation](#Navigation)
   - [Propulsion](#Propulsion)
