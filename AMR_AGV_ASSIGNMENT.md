@@ -8,12 +8,10 @@
 
 ## History of AGV/AMR
 
-- Automation for material handling and transportation extends back to the early twentieth century. The earliest automated guided vehicles (AGVs) were created in the 1950s and were primarily employed in industrial settings like factories and warehouses.
-
-Advances in technology, such as the development of sensors and computer control systems, led to the development of increasingly sophisticated AGVs capable of navigating complicated settings and adapting to changing conditions in the 1980s.
+- Automation for material handling and transportation extends back to the early twentieth century. The earliest automated guided vehicles (AGVs) were created in the 1950s and were primarily employed in industrial settings like factories and warehouses. Advances in technology, such as the development of sensors and computer control systems, led to the development of increasingly sophisticated AGVs capable of navigating complicated settings and adapting to changing conditions in the 1980s.
 
 ![First AGV](https://www.forkliftaction.com/upload/gallery/3707.jpg?s=1)
 
-- In recent years, there has been increased interest in autonomous mobile robots (AMRs), which are similar to AGVs but have improved sensors and navigation systems that allow them to travel freely throughout a facility without the need for predefined courses or markers.
+- In recent years, there has been increased interest in autonomous mobile robots (AMRs), which are similar to AGVs but have improved sensors and navigation systems that allow them to travel freely throughout a facility without the need for predefined courses or markers. The rise of AMRs is inextricably tied to the advent of Industry 4.0, a movement towards more automation and digitization in manufacturing and other industries. AGVs and AMRs are now employed to improve efficiency and minimise labour costs in a range of environments, including manufacturing plants, warehouses, hospitals, and retail outlets.
 
-The rise of AMRs is inextricably tied to the advent of Industry 4.0, a movement towards more automation and digitization in manufacturing and other industries. AGVs and AMRs are now employed to improve efficiency and minimise labour costs in a range of environments, including manufacturing plants, warehouses, hospitals, and retail outlets.
+![Modern AGV](https://thumbs.dreamstime.com/b/automated-guided-vehicles-agv-forklift-lifting-carton-modern-warehouse-253424837.jpg)
