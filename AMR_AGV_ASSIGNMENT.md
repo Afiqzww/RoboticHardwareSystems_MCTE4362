@@ -62,4 +62,6 @@ AMR
 
 AGVs often use physically marked roads or routes on the ground or other infrastructure, such as magnetic tape, painted lines, QR code stickers, or laser targets.The AGV follows these routes and relies on optical sensors that detect and correct deviations from the path. Onboard sensors on some AGVs may be used to identify obstructions to prevent collisions. AGVs operate best in well-defined environments with established infrastructure, such as factories, warehouses, and airports. While AMRs are built to operate in dynamic contexts with changing infrastructure. It detects its surroundings and determines its location by using natural landmarks. To identify impediments and avoid crashes, they are outfitted with sensors such as cameras, lidar, and ultrasonic sensors. In its navigation system, AMRs commonly use SLAM (Simultaneous Localization and Mapping) algorithms. The robot gathers sensor data from its surroundings and uses it to create an environment map. Simultaneously, it uses that data to estimate its own position on the map.
 
-![AGV Navigation](https://www.agvnetwork.com/images/technology/navigation-systems/AGV_and_AMR_Navigation_Technology.jpg)
+| Types of Navigation | Video |
+|--|--|
+| ![AGV Navigation](https://www.agvnetwork.com/images/technology/navigation-systems/AGV_and_AMR_Navigation_Technology.jpg) | [![Watch the video](https://www.youtube.com/embed/JIYOndxW9hc?wmode=transparent)](https://youtu.be/JIYOndxW9hc) |
