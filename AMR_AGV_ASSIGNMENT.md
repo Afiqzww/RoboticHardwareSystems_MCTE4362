@@ -50,3 +50,9 @@ AGV
 | Automated Guided Carts | Used to transport materials from one location to another, with minimal features | ![AGV](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ui-akMaPHlZZJI4qPbSpOQHaFi%26pid%3DApi&f=1&ipt=fa50df63ccfd0d7d880572ea5a3575cf23e45306a06e8dcda7f5c2935783bf75&ipo=images) |
 | Unit Load | Designed to transport large, heavy loads | ![Unit load](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.agvnetwork.com%2Fimages%2Ftypes-agv%2Funit-load%2Funit_load_agv_with_lifting_table.jpg&f=1&nofb=1&ipt=0f52d26d3035a5839847d6757d1fe363916376a938e83f9dab9041358b585609&ipo=images) |
 | Pallet Trucks/Forklifts | designed to move pallets and other loads around | ![Pallet/Forklift AGV](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwizurai-indonesia.com%2Fwp-content%2Fuploads%2F2021%2F02%2Ftruck-pallet-AGV.png&f=1&nofb=1&ipt=62d30a20632a8ed680535e5761c5e081816677492b9b41230e42755b152a59d6&ipo=images) |
+
+AMR
+
+| Types | Description	| Example |
+|--|--|--|
+|
