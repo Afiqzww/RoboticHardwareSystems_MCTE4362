@@ -27,3 +27,11 @@
 |AGV|AMR|
 |---|---|
 | ![Modern AGV](https://thumbs.dreamstime.com/b/automated-guided-vehicles-agv-forklift-lifting-carton-modern-warehouse-253424837.jpg) | ![Amazon AMR](https://s.yimg.com/uu/api/res/1.2/Lvtw_mfKscRcPEwX3qKGhw--~B/Zmk9ZmlsbDtoPTU1MTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-06/49559fb0-f226-11ec-95ff-01cdb7299c23.cf.jpg) |
+
+## AGV/AMR Application
+
+|Application|Description|Example|
+|---|---|---|
+|Warehousing and logistics|  transporting goods from one location to another, reducing the need for manual labor and increasing efficiency | ![warehousing AGV](https://www.bevindustry.com/ext/resources/issues/2021/08-August/Dist_AGVs_Yale-robotic-reach-truck1170x878.jpg?1627558764) |
+|Manufacturing| used in manufacturing facilities to transport raw materials, finished products, and other supplies | ![Manufacturing AGV](https://www.sme.org/globalassets/sme.org/technologies/articles/2018/06---june/dakkota-201802-222-768x432.jpg) |
+|Healthcare| used in healthcare facilities to transport medical supplies and equipment between different departments | ![Medibot](https://m.economictimes.com/thumb/msid-75123099,width-1200,height-900,resizemode-4,imgsize-796189/engineering-professors-pose-with-the-version-two-prototype-of-the-iium-medibot-medical-robot-at-the-international-islamic-university-malaysia-in-gombak-on-the-outskirts-of-kuala-lumpur-.jpg) |
