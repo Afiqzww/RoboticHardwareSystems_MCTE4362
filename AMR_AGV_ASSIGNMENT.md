@@ -32,6 +32,21 @@
 
 |Application|Description|Example|
 |---|---|---|
-|Warehousing and logistics|  transporting goods from one location to another, reducing the need for manual labor and increasing efficiency | ![warehousing AGV](https://www.bevindustry.com/ext/resources/issues/2021/08-August/Dist_AGVs_Yale-robotic-reach-truck1170x878.jpg?1627558764) |
-|Manufacturing| used in manufacturing facilities to transport raw materials, finished products, and other supplies | ![Manufacturing AGV](https://www.sme.org/globalassets/sme.org/technologies/articles/2018/06---june/dakkota-201802-222-768x432.jpg) |
-|Healthcare| used in healthcare facilities to transport medical supplies and equipment between different departments | ![Medibot](https://m.economictimes.com/thumb/msid-75123099,width-1200,height-900,resizemode-4,imgsize-796189/engineering-professors-pose-with-the-version-two-prototype-of-the-iium-medibot-medical-robot-at-the-international-islamic-university-malaysia-in-gombak-on-the-outskirts-of-kuala-lumpur-.jpg) |
+|Warehousing and logistics|  Transporting goods from one location to another, reducing the need for manual labor and increasing efficiency | ![warehousing AGV](https://www.bevindustry.com/ext/resources/issues/2021/08-August/Dist_AGVs_Yale-robotic-reach-truck1170x878.jpg?1627558764) |
+|Manufacturing|Used in manufacturing facilities to transport raw materials, finished products, and other supplies | ![Manufacturing AGV](https://www.sme.org/globalassets/sme.org/technologies/articles/2018/06---june/dakkota-201802-222-768x432.jpg) |
+|Healthcare| Used in healthcare facilities to transport medical supplies and equipment between different departments | ![Medibot](https://m.economictimes.com/thumb/msid-75123099,width-1200,height-900,resizemode-4,imgsize-796189/engineering-professors-pose-with-the-version-two-prototype-of-the-iium-medibot-medical-robot-at-the-international-islamic-university-malaysia-in-gombak-on-the-outskirts-of-kuala-lumpur-.jpg) |
+
+## AGV/AMR Composition
+
+While AGV's and AMR's are similar in design, there a few differences that is key to their functionality and use case
+
+### Frame
+
+AGV
+
+| Types | Description	| Example |
+|--|--|--|
+| Tuggers | Automated vehicles that are used to tow other carts or trailers | ![Tugger AGV](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbNxsYJ_zxOs%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=359f2c6d292d749d881449b103ce9a7f4b872aec52cf93d15d2333382de7500b&ipo=images) |
+| Automated Guided Carts | Used to transport materials from one location to another, with minimal features | ![AGV](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ui-akMaPHlZZJI4qPbSpOQHaFi%26pid%3DApi&f=1&ipt=fa50df63ccfd0d7d880572ea5a3575cf23e45306a06e8dcda7f5c2935783bf75&ipo=images) |
+| Unit Load | Designed to transport large, heavy loads | ![Unit load](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.agvnetwork.com%2Fimages%2Ftypes-agv%2Funit-load%2Funit_load_agv_with_lifting_table.jpg&f=1&nofb=1&ipt=0f52d26d3035a5839847d6757d1fe363916376a938e83f9dab9041358b585609&ipo=images) |
+| Pallet Trucks/Forklifts | designed to move pallets and other loads around | ![Pallet/Forklift AGV](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwizurai-indonesia.com%2Fwp-content%2Fuploads%2F2021%2F02%2Ftruck-pallet-AGV.png&f=1&nofb=1&ipt=62d30a20632a8ed680535e5761c5e081816677492b9b41230e42755b152a59d6&ipo=images) |
