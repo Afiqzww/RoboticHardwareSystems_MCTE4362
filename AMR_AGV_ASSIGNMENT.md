@@ -12,7 +12,7 @@
 - [AGV/AMR Composition](#AGV/AMR-Composition)
   - [Frame](#Frame)
   - [Navigation](#Navigation)
-  - [Propulsion](#Propulsion)
+  - [Locomotion](#Locomotion)
   - [Data Collection](#[Data-Collection)
   - [Data Transmission](#Data-Transmission)
 
@@ -65,3 +65,7 @@ AGVs often use physically marked roads or routes on the ground or other infrastr
 | Types of Navigation | Video |
 |--|--|
 | ![AGV Navigation](https://www.agvnetwork.com/images/technology/navigation-systems/AGV_and_AMR_Navigation_Technology.jpg) | [![Watch the video](https://www.youtube.com/embed/JIYOndxW9hc?wmode=transparent)](https://youtu.be/JIYOndxW9hc) |
+
+## Locomotion
+
+
