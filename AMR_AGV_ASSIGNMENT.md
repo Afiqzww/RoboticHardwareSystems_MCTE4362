@@ -71,4 +71,5 @@ AGVs often use physically marked roads or routes on the ground or other infrastr
 | Types | Description	| Example |
 |--|--|--|
 | Omni wheel | An Omni wheel is a wheel with freewheel rollers on a plane perpendicular to its axis of rotation. | ![Omniwheel](https://upload.wikimedia.org/wikipedia/commons/e/e3/Triple_Rotacaster_commercial_industrial_omni_wheel.jpg) |
-| Mecanum | A wheel with rollers attached to its circumference. These rollers are positioned diagonally or at 45-degree angle. | ![Mecanum wheels](
+| Mecanum | A wheel with rollers attached to its circumference. These rollers are positioned diagonally or at 45-degree angle. | ![Mecanum wheels](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMXCXM81_JfQCC-XKEJDlD2vfwveHCn1BvYZB1x-JVzUz8DwGcoyV9CAtFvZLRQg0_Bs&usqp=CAU) |
+
