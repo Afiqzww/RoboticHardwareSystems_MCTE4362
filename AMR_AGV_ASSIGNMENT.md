@@ -68,4 +68,5 @@ AGVs often use physically marked roads or routes on the ground or other infrastr
 
 ## Locomotion
 
-
+| Types | Description	| Example |
+|--|--|--|
