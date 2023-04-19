@@ -24,4 +24,6 @@
 
 - In recent years, there has been increased interest in autonomous mobile robots (AMRs), which are similar to AGVs but have improved sensors and navigation systems that allow them to travel freely throughout a facility without the need for predefined courses or markers. The rise of AMRs is inextricably tied to the advent of Industry 4.0, a movement towards more automation and digitization in manufacturing and other industries. AGVs and AMRs are now employed to improve efficiency and minimise labour costs in a range of environments, including manufacturing plants, warehouses, hospitals, and retail outlets.
 
-![Modern AGV](https://thumbs.dreamstime.com/b/automated-guided-vehicles-agv-forklift-lifting-carton-modern-warehouse-253424837.jpg)
+|AGV|AMR|
+|---|---|
+| ![Modern AGV](https://thumbs.dreamstime.com/b/automated-guided-vehicles-agv-forklift-lifting-carton-modern-warehouse-253424837.jpg) | ![Amazon AMR](https://s.yimg.com/uu/api/res/1.2/Lvtw_mfKscRcPEwX3qKGhw--~B/Zmk9ZmlsbDtoPTU1MTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-06/49559fb0-f226-11ec-95ff-01cdb7299c23.cf.jpg) |
