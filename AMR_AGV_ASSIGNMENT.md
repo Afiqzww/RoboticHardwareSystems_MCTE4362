@@ -85,4 +85,9 @@ Data collected by AGV and AMR is typically used to further improve their systems
 
 ## Data Transmission
 
+For AGVs and AMRs to operate efficiently and without risk of collision, communication between the robots is crucial. Here are some types of data ransmission used:
+
+-Wireless communication: Many AGVs and AMRs use wireless communication methods, such as Wi-Fi, Bluetooth, or radio frequency (RF) communication, to transmit data wirelessly. This allows robots to move more freely around the facility and communicate with other machines without the limitations of physical cables.
+- Wired communication: AGVs and AMRs may transmit data between the robot and other devices using wired communication techniques, such as Ethernet cables or serial communication protocols.
+- Real Time Location Systems: RTLS uses multiple components (Transponders, Recievers, Software) to accurately pinpoint important landmarks, locations and even other robots in real-time.
 
