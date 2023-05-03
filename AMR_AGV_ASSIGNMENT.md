@@ -71,5 +71,18 @@ AGVs often use physically marked roads or routes on the ground or other infrastr
 | Types | Description	| Example |
 |--|--|--|
 | Omni wheel | An Omni wheel is a wheel with freewheel rollers on a plane perpendicular to its axis of rotation. | ![Omniwheel](https://upload.wikimedia.org/wikipedia/commons/e/e3/Triple_Rotacaster_commercial_industrial_omni_wheel.jpg) |
+| Swerve Drive | An omnidirectional drive-train in which all wheels are independently steered and driven | ![swerve drive](https://i.redd.it/fe9xjfdb8yqa1.jpg) |
 | Mecanum | A wheel with rollers attached to its circumference. These rollers are positioned diagonally or at 45-degree angle. | ![Mecanum wheels](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMXCXM81_JfQCC-XKEJDlD2vfwveHCn1BvYZB1x-JVzUz8DwGcoyV9CAtFvZLRQg0_Bs&usqp=CAU) |
+
+## Data Collection
+
+Data collected by AGV and AMR is typically used to further improve their systems and optimize their operations.
+
+- Position and orientation data: To determine their position and orientation in space, AGVs and AMRs use sensors like lasers, cameras, and GPS.
+- Surrounding data: AGV and AMRs collect information about their surroundings, such as the presence of obstacles, the layout of the environment, and the location of other machines or workers.
+- Status data: AGVs and AMRs may collect information about their own status, such as battery level, temperature, and speed.
+- Performance data: Robots may collect data about their own performance, such as the distance traveled, the time taken to complete a task, and the number of errors encountered.
+
+## Data Transmission
+
 
