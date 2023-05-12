@@ -45,7 +45,12 @@ Normally small scale, low powered robots are used for swarms since the main prin
 
 - Aerial
 
-|Drone| Drones are used as swarm robots due to their mobility and versatility |  | 
+|Drone| Drones are used as swarm robots due to their mobility and versatility | ![](https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_4(1).jpg) | 
+
+- Ground
+
+|Wheeled| Suitable for flat or moderately uneven terrains and can navigate indoor and outdoor environments effectively. | ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latestgkgs.com%2Frobotarium-3860-a&psig=AOvVaw3eQt36-Zet1DxnzPOkj2OI&ust=1683984431707000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPjN6bLx7_4CFQAAAAAdAAAAABAD) |
+|Insect| | |
 
 ### Navigation
 
