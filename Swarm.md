@@ -71,6 +71,8 @@ Over the years various protocols have been developed for various types of swarm 
 
 | Types | Description	| Example |
 |--|--|--|
+|Centralized| Communication is sent out by a master control station to an individual or multiple nodes|![](https://pub.mdpi-res.com/applsci/applsci-10-03661/article_deploy/html/images/applsci-10-03661-g001.png?1591399918)|
+|Heirachal| The master control station relays commands to "squad leaders" which is repeated to other nodes|![](https://www.researchgate.net/profile/Patrick-Benavidez-2/publication/224362631/figure/fig1/AS:287019160485890@1445442108181/Swarm-communication-hierarchy-with-air-ground-domain-master-and-two-ground-swarms_Q320.jpg)|
 |
 
 
