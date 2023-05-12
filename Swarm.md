@@ -18,7 +18,7 @@
   - [Data Transmission](#Data-Transmission)
 
 
-# Swarm Robot History
+## Swarm Robot History
 
 - Early Concepts (1980s-1990s): Swarm robotics concept emerges with researchers like Beni and Wang exploring coordination and cooperation among multiple simple robots.
 - Artificial Life and Autonomous Robotics (1990s): Influence of artificial life on swarm robotics, studying self-organizing systems inspired by natural phenomena.
@@ -27,10 +27,12 @@
 - Advances in Algorithms and Communication (2000s-current): Continuous developments in swarm robotics algorithms and communication techniques for tasks like formation, recognition, transportation, and exploration.
 - Real-World Applications: Swarm robotics finds applications in search and rescue, environmental monitoring, agriculture, construction, and transportation, showcasing practical solutions to various challenges.
 
-# Swarm Robot Applications
+## Swarm Robot Applications
 
 |Application|Description|Example|
 |---|---|---|
-|Search and Rescue| Deployed in disaster scenarios to search for survivors in hazardous environments, such as collapsed buildings or debris. They can quickly cover a large area, communicate with each other, and provide real-time data for efficient search and rescue operations. | ![warehousing AGV](https://www.bevindustry.com/ext/resources/issues/2021/08-August/Dist_AGVs_Yale-robotic-reach-truck1170x878.jpg?1627558764) |
-|Environmental Monitoring|Used in manufacturing facilities to transport raw materials, finished products, and other supplies | ![Manufacturing AGV](https://www.sme.org/globalassets/sme.org/technologies/articles/2018/06---june/dakkota-201802-222-768x432.jpg) |
-|Agriculture| Used in healthcare facilities to transport medical supplies and equipment between different departments | ![Medibot](https://m.economictimes.com/thumb/msid-75123099,width-1200,height-900,resizemode-4,imgsize-796189/engineering-professors-pose-with-the-version-two-prototype-of-the-iium-medibot-medical-robot-at-the-international-islamic-university-malaysia-in-gombak-on-the-outskirts-of-kuala-lumpur-.jpg) |
+|Search and Rescue| Deployed in disaster scenarios to search for survivors in hazardous environments, such as collapsed buildings or debris. They can quickly cover a large area, communicate with each other, and provide real-time data for efficient search and rescue operations. | ![SnR swarm](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia1.s-nbcnews.com%2Fj%2Fnewscms%2F2014_04%2F138586%2F140124-rescue-robots-flocking-drones-main_3cf3128f7e1d3ca21d307cd526589731.nbcnews-fp-1240-520.jpg&f=1&nofb=1&ipt=8f42cf52c0c56e578cc6228aa451f8e456782e798222b15fd58f92c8c5ad4492&ipo=images)|
+|Environmental Monitoring| Used to monitor and collect data in environmental studies. They can collaborate to gather information about air or water quality, collect samples from different locations, and create a comprehensive understanding of the environment. | ![EM swarm](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frobohub.org%2Fwp-content%2Fuploads%2F2016%2F10%2F2-Saga-NOLABELS.jpg&f=1&nofb=1&ipt=e5d83d748eb7b81c9168f83ba25365e04088a440e9634e53e3c37f04152f47bb&ipo=images) |
+|Agriculture| Assists in agriculture by performing tasks like crop pollination, planting, and harvesting. They can work collaboratively to cover large fields,  | ![Agri swarm](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.rOo15x7zaEjURxkI3IE0vQHaEJ%26pid%3DApi&f=1&ipt=ae2d84ea7122ed5b1837b82e66fa02ea4c6679c8a6704f313756444b4848c876&ipo=images) |
+
+## Swarm Robot Composition
