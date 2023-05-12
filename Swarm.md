@@ -26,3 +26,11 @@
 - Swarm Intelligence (early 2000s): Study of collective behavior in decentralized systems influences swarm robotics.
 - Advances in Algorithms and Communication (2000s-current): Continuous developments in swarm robotics algorithms and communication techniques for tasks like formation, recognition, transportation, and exploration.
 - Real-World Applications: Swarm robotics finds applications in search and rescue, environmental monitoring, agriculture, construction, and transportation, showcasing practical solutions to various challenges.
+
+# Swarm Robot Applications
+
+|Application|Description|Example|
+|---|---|---|
+|Search and Rescue| Deployed in disaster scenarios to search for survivors in hazardous environments, such as collapsed buildings or debris. They can quickly cover a large area, communicate with each other, and provide real-time data for efficient search and rescue operations. | ![warehousing AGV](https://www.bevindustry.com/ext/resources/issues/2021/08-August/Dist_AGVs_Yale-robotic-reach-truck1170x878.jpg?1627558764) |
+|Environmental Monitoring|Used in manufacturing facilities to transport raw materials, finished products, and other supplies | ![Manufacturing AGV](https://www.sme.org/globalassets/sme.org/technologies/articles/2018/06---june/dakkota-201802-222-768x432.jpg) |
+|Agriculture| Used in healthcare facilities to transport medical supplies and equipment between different departments | ![Medibot](https://m.economictimes.com/thumb/msid-75123099,width-1200,height-900,resizemode-4,imgsize-796189/engineering-professors-pose-with-the-version-two-prototype-of-the-iium-medibot-medical-robot-at-the-international-islamic-university-malaysia-in-gombak-on-the-outskirts-of-kuala-lumpur-.jpg) |
