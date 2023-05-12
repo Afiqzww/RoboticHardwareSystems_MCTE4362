@@ -13,9 +13,9 @@
 - [Swarm Robot Composition](#Swarm-Robot-Composition)
   - [Frame](#Frame)
   - [Navigation](#Navigation)
-  - [Locomotion](#Locomotion)
+  - [Communication](#Communication)
   - [Data Collection](#[Data-Collection)
-  - [Data Transmission](#Data-Transmission)
+
 
 
 ## Swarm Robot History
@@ -44,7 +44,7 @@ Due to the nature of its use designs and use cases vary widely so we will be dis
 Normally small scale, low powered robots are used for swarms since the main principal is quantity over quality.
 
 - Aerial
-- 
+
 | Types | Description	| Example |
 |--|--|--|
 |Drone| Drones are used as swarm robots due to their mobility and versatility | ![](https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_4(1).jpg) | 
@@ -53,8 +53,36 @@ Normally small scale, low powered robots are used for swarms since the main prin
 
 | Types | Description	| Example |
 |--|--|--|
-|Wheeled| Suitable for flat or moderately uneven terrains and can navigate indoor and outdoor environments effectively. | ![-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latestgkgs.com%2Frobotarium-3860-a&psig=AOvVaw3eQt36-Zet1DxnzPOkj2OI&ust=1683984431707000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPjN6bLx7_4CFQAAAAAdAAAAABAD) |
+|Wheeled| Suitable for flat or moderately uneven terrains and can navigate indoor and outdoor environments effectively. | ![-](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.techexplorist.com%2Fwp-content%2Fuploads%2F2020%2F02%2FSwarming-robot.jpg&f=1&nofb=1&ipt=4b923890e9312cd1109929915ef02fe498a3ab74512695a5e8097d35f14fdbd7&ipo=images) |
 |Insect/Animal|  Inspired by animals or insects, have multiple legs that provide enhanced mobility and maneuverability in complex and challenging terrains. Legged swarm robots can traverse uneven surfaces, climb obstacles, or navigate rough terrains where wheeled robots might struggle. | ![-](https://cdn.sci.news/images/enlarge9/image_10180e-Four-Legged-Robots.jpg) |
 
 ### Navigation
+
+- Localization is the process of estimating a robot's position and orientation inside its environment. To identify their location, swarm robots can utilise odometry (measuring wheel or leg rotations), inertial sensors (gyroscopes, accelerometers), or external sensors (GPS, beacons, or motion capture systems).
+- Mapping entails constructing a model of the environment in which the swarm robots operate. Swarm robots can map their environment using techniques such as simultaneous localization and mapping (SLAM). Mapping allows the robots to have a spatial sense of their surroundings, plan pathways, and avoid obstacles while navigating.
+- In swarm robots, collision avoidance is critical for ensuring safe and smooth navigation. To detect and avoid collisions with objects or other swarm members, swarm robots use several techniques such as proximity sensors, vision systems, or communication among robots. Collision avoidance algorithms enable swarm robots to manoeuvre in a coordinated fashion while keeping a safe distance between themselves and the environment.
+- Swarm robots can exchange information and interact with one another to coordinate their motions, share maps or paths, and avoid conflicts or collisions. Swarm robots can achieve collective behaviour while travelling in a coordinated manner thanks to communication protocols, consensus algorithms, or decentralised decision-making processes.
+
+### Communication
+
+Over the years various protocols have been developed for various types of swarm robots and tasks. Here are some commonly used protocols:
+
+![](https://www.mdpi.com/applsci/applsci-10-03661/article_deploy/html/images/applsci-10-03661-g006.png)
+
+| Types | Description	| Example |
+|--|--|--|
+|
+
+
+### Data Collection
+
+- Enviromental Data: Swarm robots frequently collect data about their surroundings. Temperature, humidity, air quality, radiation levels, and noise levels are examples of such data.
+- Sensor Readings: swarm robots are equipped with a variety of sensors. Sensor data such as distance measurements, proximity detection, light intensity, and sound levels are collected. These sensor readings provide essential information on the physical qualities of objects or barriers in the environment, allowing robots to navigate, avoid collisions, and interact efficiently with their surroundings.
+- Visual Data: Swarm robots equipped with cameras or vision sensors capture visual data from their environment. This includes images, video streams, or depth maps that provide visual information about the surroundings. 
+- Localization and Mapping Data: Swarm robots gather information on their own localization and mapping. Odometry data (wheel or leg rotations), GPS locations, visual landmarks, or environmental mapping information can all be included. 
+
+
+
+
+
 
