@@ -50,7 +50,7 @@ Normally small scale, low powered robots are used for swarms since the main prin
 - Ground
 
 |Wheeled| Suitable for flat or moderately uneven terrains and can navigate indoor and outdoor environments effectively. | ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latestgkgs.com%2Frobotarium-3860-a&psig=AOvVaw3eQt36-Zet1DxnzPOkj2OI&ust=1683984431707000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPjN6bLx7_4CFQAAAAAdAAAAABAD) |
-|Insect| | |
+|Insect/Animal|  Inspired by animals or insects, have multiple legs that provide enhanced mobility and maneuverability in complex and challenging terrains. Legged swarm robots can traverse uneven surfaces, climb obstacles, or navigate rough terrains where wheeled robots might struggle. | ![](https://cdn.sci.news/images/enlarge9/image_10180e-Four-Legged-Robots.jpg) |
 
 ### Navigation
 
