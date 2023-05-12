@@ -36,3 +36,16 @@
 |Agriculture| Assists in agriculture by performing tasks like crop pollination, planting, and harvesting. They can work collaboratively to cover large fields,  | ![Agri swarm](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.rOo15x7zaEjURxkI3IE0vQHaEJ%26pid%3DApi&f=1&ipt=ae2d84ea7122ed5b1837b82e66fa02ea4c6679c8a6704f313756444b4848c876&ipo=images) |
 
 ## Swarm Robot Composition
+
+Due to the nature of its use designs and use cases vary widely so we will be discussing two types of swarm robots: Aerial and Ground.
+
+### Frame
+
+Normally small scale, low powered robots are used for swarms since the main principal is quantity over quality.
+
+- Aerial
+
+|Drone| Drones are used as swarm robots due to their mobility and versatility |  | 
+
+### Navigation
+
