@@ -13,3 +13,7 @@ A humanoid robot is a robot that resembles the human body in shape and structure
   - [Data Collection](#[Data-Collection)
   - [Data Transmission](#Data-Transmission)
   - [Power Management](#Power-Management)
+
+## History
+
+- In the 13th century, a Muslim engineer named Ismail al-Jazari designed various humanoid automata. He created a waitress robot that could dispense drinks
