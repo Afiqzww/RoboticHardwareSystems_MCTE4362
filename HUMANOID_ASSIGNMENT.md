@@ -34,6 +34,12 @@ A humanoid robot is a robot that resembles the human body in shape and structure
 - WABOT series: The WABOT series of robots, developed by Waseda University in Japan starting from the 1970s, aimed to create humanoid robots capable of human-like movements and interactions
 - ASIMO: Honda's Advanced Step in Innovative Mobility (ASIMO) robot was introduced in 2000. ASIMO featured advanced mobility, dexterity, and the ability to recognize human faces and voices
 
-| | |
+|Name|Image|
+|---|---|
+|Gakutensoku|<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gakutensokuold.jpg">|
+|Elektro|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Senator_John_Heinz_History_Center_-_IMG_7802.JPG/1200px-Senator_John_Heinz_History_Center_-_IMG_7802.JPG">|
+|Shakey|<img src="https://history-computer.com/wp-content/uploads/2021/01/RosenAndShakey1983.webp">|
+|WABOT|<img src="https://www.humanoid.waseda.ac.jp/booklet/photo/WABOT-1-1973.jpg">|
+|ASIMO|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg/1200px-Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg">|
 
 - In recent years, advancements in robotics have led to the development of various humanoid robots, each with its unique capabilities. Some notable examples include Boston Dynamics' Atlas robot, SoftBank Robotics' Pepper robot, and Hanson Robotics' Sophia robot
