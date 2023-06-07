@@ -4,9 +4,9 @@ A humanoid robot is a robot that resembles the human body in shape and structure
 
 ## Contents
 
-- [Humanoid History](#Humanoid-History)
-- [Humanoid Application](#Humanoid-Applications)
-- [Humanoid Composition](#Humanoid-Composition)
+- [History](#History)
+- [Application](#Applications)
+- [Composition](#Composition)
   - [Frame](#Frame)
   - [Locomotion](#Locomotion)
   - [Navigation](#Navigation)
@@ -28,18 +28,22 @@ A humanoid robot is a robot that resembles the human body in shape and structure
 
 <img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-32398-1_2/MediaObjects/448627_1_En_2_Fig10_HTML.png" width="400" height="600">
 
-- Gakutensoku: In 1928, Japanese engineer Makoto Nishimura built Gakutensoku, one of the first modern humanoid robots. It was capable of facial and body --movements
-- Elektro: Created by Westinghouse Electric Corporation in 1939, Elektro was a humanoid robot that could speak, walk, and smoke cigarettes
-- Shakey: Developed by SRI International in the late 1960s, Shakey was a pioneering robot that could navigate its environment and perform tasks. It utilized artificial intelligence and computer vision
-- WABOT series: The WABOT series of robots, developed by Waseda University in Japan starting from the 1970s, aimed to create humanoid robots capable of human-like movements and interactions
-- ASIMO: Honda's Advanced Step in Innovative Mobility (ASIMO) robot was introduced in 2000. ASIMO featured advanced mobility, dexterity, and the ability to recognize human faces and voices
+- Pre-Modern Humanoid robots
 
-|Name|Image|
-|---|---|
-|Gakutensoku|<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gakutensokuold.jpg">|
-|Elektro|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Senator_John_Heinz_History_Center_-_IMG_7802.JPG/1200px-Senator_John_Heinz_History_Center_-_IMG_7802.JPG">|
-|Shakey|<img src="https://history-computer.com/wp-content/uploads/2021/01/RosenAndShakey1983.webp">|
-|WABOT|<img src="https://www.humanoid.waseda.ac.jp/booklet/photo/WABOT-1-1973.jpg">|
-|ASIMO|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg/1200px-Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg">|
+|Name|Description|Image|
+|---|---|---|
+|Gakutensoku|Gakutensoku: In 1928, Japanese engineer Makoto Nishimura built Gakutensoku, one of the first modern humanoid robots. It was capable of facial and body movements|<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gakutensokuold.jpg">|
+|Elektro|Elektro: Created by Westinghouse Electric Corporation in 1939, Elektro was a humanoid robot that could speak, walk, and smoke cigarettes|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Senator_John_Heinz_History_Center_-_IMG_7802.JPG/1200px-Senator_John_Heinz_History_Center_-_IMG_7802.JPG">|
+|Shakey|Shakey: Developed by SRI International in the late 1960s, Shakey was a pioneering robot that could navigate its environment and perform tasks. It utilized artificial intelligence and computer vision|<img src="https://history-computer.com/wp-content/uploads/2021/01/RosenAndShakey1983.webp">|
+|WABOT| WABOT series: The WABOT series of robots, developed by Waseda University in Japan starting from the 1970s, aimed to create humanoid robots capable of human-like movements and interactions|<img src="https://www.humanoid.waseda.ac.jp/booklet/photo/WABOT-1-1973.jpg">|
+|ASIMO|ASIMO: Honda's Advanced Step in Innovative Mobility (ASIMO) robot was introduced in 2000. ASIMO featured advanced mobility, dexterity, and the ability to recognize human faces and voices|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg/1200px-Honda_ASIMO_%28ver._2011%29_2011_Tokyo_Motor_Show.jpg">|
 
 - In recent years, advancements in robotics have led to the development of various humanoid robots, each with its unique capabilities. Some notable examples include Boston Dynamics' Atlas robot, SoftBank Robotics' Pepper robot, and Hanson Robotics' Sophia robot
+
+|Name|Description|Image|
+|---|---|---|
+|Atlas|Atlas is a bipedal humanoid robot developed primarily by Boston Dynamics, a robotics company based in the United States. It was created with the support and funding of the U.S. Defense Advanced Research Projects Agency (DARPA) and was initially designed for search and rescue missions|<img src="https://cdn.mos.cms.futurecdn.net/s9sxXfjdJwNhnpAoHgFegF.jpg">|
+|Pepper|Pepper was the world’s first social humanoid robot able to recognize faces and basic human emotions. Pepper was optimized for human interaction and is able to engage with people through conversation and his touch screen.|<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/SoftBank_pepper.JPG">|
+|Sophia|Sophia is a social humanoid robot developed by the Hong Kong-based company Hanson Robotics. Sophia is marketed as a "social robot" that can mimic social behavior and induce feelings of love in humans.|<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sophia_at_the_AI_for_Good_Global_Summit_2018_%2827254369347%29_%28cropped%29.jpg" >|
+
+## Applications
