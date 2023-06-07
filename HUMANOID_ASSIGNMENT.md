@@ -18,7 +18,12 @@ A humanoid robot is a robot that resembles the human body in shape and structure
 
 - In the 13th century, a Muslim engineer named Ismail al-Jazari designed various humanoid automata. He created a waitress robot that could dispense drinks
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Al-jazari_elephant_clock.png" width="400" height="500">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Al-jazari_elephant_clock.png" width="400" height="600">
 
 - During the Renaissance period, there were advancements in automata design. Italian inventor Leonardo da Vinci sketched and conceptualized humanoid robots, including a mechanical knight
 
+<img src="https://media.gq-magazine.co.uk/photos/5d139955d7a70181fcbba917/master/w_1600%2Cc_limit/Robot-Knight-GQ_11Feb16_getty_b.jpg" width="400" height="600">
+
+- 18th and 19th centuries: During this period, inventors and engineers continued to explore the creation of humanoid robots. Jacques de Vaucanson, a French engineer, constructed mechanical automata, including a life-sized flute player and a digesting duck
+
+<img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-32398-1_2/MediaObjects/448627_1_En_2_Fig10_HTML.png" width="400" height="600">
