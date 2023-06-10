@@ -71,16 +71,37 @@ One approach mentioned in the provided information is the Trajectory Optimizatio
 
 ![](https://www.researchgate.net/publication/353885579/figure/fig2/AS:1056334304772096@1628861132677/A-The-TOWR-locomotion-planning-algorithm-is-presented-B-Illustrative-examples-of.png)
 
+This process involves inverse kinematics which is the process of computing the joint angles or joint values that correspond to a desired position and orientation of the robot's end effector or body. The purpose of inverse kinematics is to determine the joint configurations required to achieve a specific pose or trajectory in the operational space
+
 ### Navigation
 
-The complex area of Humanoid robot navigation focuses on the movement in various environments. It involves the development of strategies and techniques to enable smooth and efficient navigation for these robots.
+The complex area of Humanoid robot navigation focuses on the movement in various environments. It involves the combination of Sensors and the development of strategies and techniques to enable smooth and efficient navigation for these robots.
 
-1: DAYKUN-BIP Virtual Target
+- Sensors
 
-This research proposes a novel navigational strategy for humanoid robots based on a virtual target displacement strategy. When a robot cannot find a safe path along the actual target line, virtual targets are generated around the target. The most feasible path and point to move are calculated based on assigned weights to each target line, considering various parameters. The proposed approach is implemented and validated using a V-REP simulation platform, showing satisfactory agreement between simulation and experimental results. To prevent inter-collision during the navigation of multiple humanoid robots, a Petri-Net strategy is integrated with the control strategy.
+-Laser Range Finders (Lidar): Lidar sensors use laser beams to measure the distance and create a detailed 3D map of the surrounding environment. This information helps robots to detect obstacles, navigate in complex environments, and perform mapping and localization tasks.
 
-![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11277-022-10043-2/MediaObjects/11277_2022_10043_Fig1_HTML.png)
+-Cameras: Cameras, such as RGB and RGB-D cameras, are widely used in humanoid robots for vision-based navigation. They capture visual information from the environment, enabling the robot to perceive objects, recognize landmarks, and estimate its position and orientation.
 
-2: Socially-Aware Robot Navigation
+-Tactile Sensors: Tactile sensors provide robots with the sense of touch, allowing them to detect contact, pressure, and force exerted on their bodies or end-effectors. By integrating tactile feedback, robots can navigate safely, interact with objects, and respond appropriately in human-robot interaction scenarios.
+
+-Inertial Measurement Units (IMUs): IMUs consist of sensors such as accelerometers, gyroscopes, and magnetometers. They measure the robot's linear acceleration, angular velocity, and magnetic field orientation. IMUs are used for estimating the robot's motion, orientation, and stabilization, which are essential for navigation and control.
+
+-Ultrasonic Sensors: Ultrasonic sensors emit high-frequency sound waves and measure the time it takes for the waves to bounce back after hitting objects. They are used for obstacle detection and proximity sensing, helping robots avoid collisions and navigate in confined spaces.
+
+- Path planning
+
+-Environment Representation: To perform path planning, the robot needs information about its environment. This information can be obtained through various sensors such as lidar, cameras, or depth sensors. The robot constructs a representation of the environment, often in the form of a grid map or a geometric model, which is used for path planning.
+
+Obstacle Detection and Avoidance: Path planning algorithms take into account the presence of obstacles in the environment and generate paths that avoid collisions. The robot uses its sensors to detect obstacles and incorporates this information into the planning process. Techniques like potential fields, rapidly exploring random trees (RRT), or A* search are commonly used for obstacle avoidance and finding collision-free paths.
+
+Path Generation and Optimization: Once the robot has information about the environment and obstacles, it generates a path from the start position to the goal position. This path can be represented as a sequence of waypoints or a continuous trajectory. Path planning algorithms aim to find the optimal or near-optimal path based on certain criteria, such as minimizing distance, energy consumption, or considering dynamic constraints of the robot.
+
+Real-time Adaptation: Path planning for humanoid robots often requires real-time adaptation to dynamic environments. The robot continuously updates its perception of the environment and adjusts its planned path accordingly. This adaptive behavior enables the robot to handle changing obstacles, new information, or unexpected events during navigation.
+
+Integration with Control and Localization: Path planning is closely integrated with robot control and localization. The planned path is used by the robot's control system to generate motion commands for achieving the desired trajectory. Localization techniques, such as simultaneous localization and mapping (SLAM), can provide the robot with accurate position information for effective path planning and execution.
+
+
+
 
 
