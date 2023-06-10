@@ -68,3 +68,19 @@ This involves the planning and control of dynamic motions to achieve versatile a
 ![](https://journals.sagepub.com/cms/10.5772/52452/asset/images/large/10.5772_52452-fig1.jpeg)
 
 One approach mentioned in the provided information is the Trajectory Optimization for Walking Robots Plus (TOWR+). TOWR+ is a method for dynamic locomotion planning that utilizes trajectory optimization to generate motions for walking robots. It aims to create versatile locomotion behaviors for humanoid robots in diverse terrains 
+
+![](https://www.researchgate.net/publication/353885579/figure/fig2/AS:1056334304772096@1628861132677/A-The-TOWR-locomotion-planning-algorithm-is-presented-B-Illustrative-examples-of.png)
+
+### Navigation
+
+The complex area of Humanoid robot navigation focuses on the movement in various environments. It involves the development of strategies and techniques to enable smooth and efficient navigation for these robots.
+
+1: DAYKUN-BIP Virtual Target
+
+This research proposes a novel navigational strategy for humanoid robots based on a virtual target displacement strategy. When a robot cannot find a safe path along the actual target line, virtual targets are generated around the target. The most feasible path and point to move are calculated based on assigned weights to each target line, considering various parameters. The proposed approach is implemented and validated using a V-REP simulation platform, showing satisfactory agreement between simulation and experimental results. To prevent inter-collision during the navigation of multiple humanoid robots, a Petri-Net strategy is integrated with the control strategy.
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11277-022-10043-2/MediaObjects/11277_2022_10043_Fig1_HTML.png)
+
+2: Socially-Aware Robot Navigation
+
+
