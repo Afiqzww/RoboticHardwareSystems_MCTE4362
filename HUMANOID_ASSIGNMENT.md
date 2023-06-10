@@ -127,7 +127,11 @@ Humanoid robots need a communication system to transmit and receive data. This s
 
 ### Power Management
 
+- Power Source: Humanoid robots are usually powered by rechargeable batteries or external power supplies. The choice of power source depends on factors such as robot size, weight, and operational requirements. Batteries provide mobility and portability, while external power supplies may be used for stationary robots or when a continuous power source is available.
 
+- Power Distribution System: The power distribution system is responsible for routing and regulating the power supply to different components of the humanoid robot. It includes circuitry such as power distribution boards, voltage regulators, and connectors to ensure proper distribution of power to various subsystems.
+
+- Power Monitoring and Management: To optimize power usage and prevent power-related issues, humanoid robots often incorporate power monitoring and management systems. These systems monitor power consumption, battery levels, and charging status to provide feedback on the robot's energy status. They may also implement power-saving strategies, such as sleep modes or dynamic power allocation, to conserve energy and prolong the robot's autonomy.
 
 
 
