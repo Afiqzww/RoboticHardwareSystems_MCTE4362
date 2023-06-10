@@ -73,6 +73,8 @@ One approach mentioned in the provided information is the Trajectory Optimizatio
 
 This process involves inverse kinematics which is the process of computing the joint angles or joint values that correspond to a desired position and orientation of the robot's end effector or body. The purpose of inverse kinematics is to determine the joint configurations required to achieve a specific pose or trajectory in the operational space
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0H-duGTjR66yhi3Z-2Dlk3xpCgS_RV6QctlKxVlz9t43ASV8v8TX-PT4dLRrwRv12D0&usqp=CAU)
+
 ### Navigation
 
 The complex area of Humanoid robot navigation focuses on the movement in various environments. It involves the combination of Sensors and the development of strategies and techniques to enable smooth and efficient navigation for these robots.
@@ -100,6 +102,32 @@ Path Generation and Optimization: Once the robot has information about the envir
 Real-time Adaptation: Path planning for humanoid robots often requires real-time adaptation to dynamic environments. The robot continuously updates its perception of the environment and adjusts its planned path accordingly. This adaptive behavior enables the robot to handle changing obstacles, new information, or unexpected events during navigation.
 
 Integration with Control and Localization: Path planning is closely integrated with robot control and localization. The planned path is used by the robot's control system to generate motion commands for achieving the desired trajectory. Localization techniques, such as simultaneous localization and mapping (SLAM), can provide the robot with accurate position information for effective path planning and execution.
+
+### Data Collection
+
+A humanoid robot should be equipped with the standard sensors any semi/autonomous robot requires for efficient operation, control, function.
+
+- Vision Sensors: Vision plays a crucial role in human-robot interaction, and humanoid robots often utilize vision sensors to perceive their surroundings. These sensors can include cameras, depth sensors (such as time-of-flight or structured light sensors), and stereo vision systems. Vision sensors enable robots to recognize objects, navigate their environment, detect obstacles, and interpret visual cues for interaction.
+
+- Tactile Sensors: Tactile sensors provide robots with the ability to sense and understand physical contact with objects or humans. They can be in the form of arrays or individual sensors distributed across the robot's body or specifically designed for the robot's hands. Tactile sensors use pressure, force, or deformation measurements to determine the tactile feedback. These sensors are valuable for object recognition, grasping, manipulation, and human-robot interaction.
+
+- Inertial Measurement Units (IMUs): IMUs consist of accelerometers, gyroscopes, and sometimes magnetometers. These sensors measure the robot's linear acceleration, angular velocity, and orientation in space. IMUs are essential for balance control, motion tracking, and posture estimation in humanoid robots. They provide information about the robot's position, velocity, and orientation.
+
+- Joint Position and Force Sensors: Humanoid robots often employ joint position sensors (encoders) to measure the angles and positions of their limbs and joints. These sensors provide feedback for precise control of movements. Additionally, force/torque sensors integrated into the joints or end effectors enable the robot to sense external forces and apply appropriate forces during interaction or manipulation tasks.
+
+- Microphones: Sound sensors, such as microphones, enable humanoid robots to perceive and interpret auditory information. By analyzing sounds and speech, robots can engage in verbal communication, recognize voice commands, and interact with humans through speech interfaces.
+
+- Range Sensors: Range sensors, including laser range finders or LiDAR (Light Detection and Ranging) sensors, provide robots with depth information and allow them to perceive the shape and distance of objects in their environment. These sensors are valuable for mapping, localization, and obstacle avoidance.
+
+- Environmental Sensors: Humanoid robots can benefit from additional environmental sensors like temperature sensors, humidity sensors, gas sensors, or ambient light sensors. These sensors enable the robot to gather contextual information about the environment and adapt its behavior accordingly.
+
+### Data Transmission
+
+Humanoid robots need a communication system to transmit and receive data. This system allows the robot to communicate with external devices, such as a central control system or other robots, and exchange information. Common communication interfaces used in humanoid robots include Ethernet, Wi-Fi, Bluetooth, and CAN (Controller Area Network). They also require a network architecture to facilitate communication among their internal components. This architecture may involve a combination of wired and wireless communication protocols mentioned previously.
+
+### Power Management
+
+
 
 
 
